@@ -10,7 +10,7 @@ Feel free to use whatever UI library, framework, etc that you feel happy develop
 
 This repo has a base project structure to get you started, you can reorganize it anyway you want to fit your architecture of wish. You **won't** be needing to develop a crawler for this challenge. It's already created inside the `/crawler` directory, and there's a [README.md](./crawler/README.md) explaining how to properly run the robot.
 
-**HINT**: Try running `node build/drogasil/runCrawler.js` inside the `crawler` folder (After installing the dependecies in package.json).
+**HINT**: Try running `node build/drogasil/runCrawler.js` inside the `crawler` folder (Check the [Crawler README](./crawler/README.md) first.).
 
 
 # Goals:
