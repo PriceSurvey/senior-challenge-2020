@@ -50,8 +50,14 @@ Don't be too hard on yourself if design/ui/ux is not your main skill, we just ne
 ## General:
 - Document the frontend and backend in different README.md files, we really want to see how you came up with this cool project!
 - Create a general SETUP.md file explaining how to boot up your project and start executing/testing everything
-- Tests for the backend are mandatory, we'll let you decide which tests and which type of tests is better suited for each part of the project. Tests for the frontend is a bonus point.
+- Tests for the backend are mandatory, you can decide which tests and which type of tests are better suited for each part of the project. 
+- Tests for the frontend is a bonus point.
 
+# Have in mind:
+
+- Design and architecture of the code must be production-ready;
+- Have in mind concepts such as SOLID, KISS, YAGNI and DRY when coding;
+- **Always** opt for best practices.
 
 # Bonus:
 If you develop a test step for the crawler results this will be very appreciated. (Check if the fields that must be fetched are being populated) 
