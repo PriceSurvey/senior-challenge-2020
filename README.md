@@ -55,5 +55,13 @@ Don't be too hard on yourself if design/ui/ux is not your main skill, we just ne
 
 # Bonus:
 If you develop a test step for the crawler results this will be very appreciated. (Check if the fields that must be fetched are being populated) 
+
 **Hint**: Test the case that have a promotional price and the case without promotional price ;)
 
+
+# Time-frame:
+The amount of time you have to develop this project is 7 days counting after the date you receive this repository. If you need more time don't hesitate to contact us on: arthurpires@pricesurvey.io
+
+
+# Contact Info:
+If you have any problems with the base project, please contact us at: arthurpires@pricesurvey.io
